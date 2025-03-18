@@ -8,7 +8,7 @@ padding: 0;
 body {
 
 height: 100vh;
-background-color: rgb(78, 78, 78);
+background-color: rgb(0, 0, 0);
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -324,7 +324,7 @@ text-align: justify;
 
 /* imagem */
 
-.image {
+.imagem {
 
     max-height: 100px;
     width: 650px;
